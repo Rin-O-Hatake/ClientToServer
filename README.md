@@ -1,1 +1,1 @@
-
+First you need to start the Server, located in the folder of the same name.
